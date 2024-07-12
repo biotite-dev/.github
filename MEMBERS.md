@@ -6,3 +6,4 @@
 # Board members
 
 - MaxGreil
+- JHKru
